@@ -1,0 +1,6 @@
+/pages/products
+
+ProductList.jsx
+ProductCreate.jsx
+ProductEdit.jsx
+ProductView.jsx
